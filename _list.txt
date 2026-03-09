@@ -42,3 +42,4 @@ LatterRarity70/REMINA
 GlobedGD/globed2
 geode-sdk/NodeIDs
 geode-sdk/DevTools
+Chs000-00/WaveCursor
