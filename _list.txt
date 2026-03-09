@@ -47,3 +47,4 @@ Chs000-00/CreateTogether
 geode-sdk/CustomKeybinds
 cvolton/betterinfo-geode
 Cvolton/ignorelevels-geode
+Cvolton/miscbugfixes-geode
