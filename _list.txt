@@ -44,3 +44,4 @@ geode-sdk/NodeIDs
 geode-sdk/DevTools
 Chs000-00/WaveCursor
 Chs000-00/CreateTogether
+geode-sdk/CustomKeybinds
