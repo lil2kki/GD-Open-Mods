@@ -57,3 +57,4 @@ theyareonit/Click-Between-Frames
 Prevter/Comment-Emojis-Reloaded
 TheSillyDoggo/Comment-Emojis
 TheSillyDoggo/GeodeMenu
+Uproxide/Texture-Workshop
