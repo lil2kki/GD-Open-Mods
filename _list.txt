@@ -52,3 +52,4 @@ RoootTheFox/custom-gamemode-colors
 DumbCaveSpider/RatedLayouts
 shadowforce78/Rainbow-Icon
 Alphalaneous/Click-After-Frames
+Alphalaneous/Dinnerbone
