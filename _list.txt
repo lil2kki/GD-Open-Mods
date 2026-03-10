@@ -58,3 +58,4 @@ Prevter/Comment-Emojis-Reloaded
 TheSillyDoggo/Comment-Emojis
 TheSillyDoggo/GeodeMenu
 Uproxide/Texture-Workshop
+geode-sdk/textureldr
