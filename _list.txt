@@ -60,3 +60,4 @@ TheSillyDoggo/GeodeMenu
 Uproxide/Texture-Workshop
 geode-sdk/textureldr
 Jouca/Soggy-Code
+cdc-sys/level-thumbs-mod
