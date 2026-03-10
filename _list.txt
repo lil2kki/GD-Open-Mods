@@ -49,3 +49,4 @@ cvolton/betterinfo-geode
 Cvolton/ignorelevels-geode
 Cvolton/miscbugfixes-geode
 RoootTheFox/custom-gamemode-colors
+DumbCaveSpider/RatedLayouts
