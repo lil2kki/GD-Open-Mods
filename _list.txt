@@ -59,3 +59,4 @@ TheSillyDoggo/Comment-Emojis
 TheSillyDoggo/GeodeMenu
 Uproxide/Texture-Workshop
 geode-sdk/textureldr
+Jouca/Soggy-Code
