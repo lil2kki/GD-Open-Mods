@@ -62,3 +62,4 @@ geode-sdk/textureldr
 Jouca/Soggy-Code
 cdc-sys/level-thumbs-mod
 EclipseMenu/EclipseMenu
+Alphalaneous/HappyTextures
